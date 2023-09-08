@@ -1,1 +1,1 @@
-# snake_game
+# quiz-game
